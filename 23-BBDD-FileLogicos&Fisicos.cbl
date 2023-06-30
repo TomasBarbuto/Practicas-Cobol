@@ -9,7 +9,7 @@
        FILE-CONTROL.
        SELECT OPTIONAL EMPLEADOS-ARCHIVO
        ASSIGN TO
-       "C:\Users\barbu\OneDrive\Escritorio\COBOL\CursoYT\Employes.txt"
+       "C:\Users\barbu\OneDrive\Escritorio\COBOL\CursoYT\Employes23.txt"
        ORGANIZATION IS LINE SEQUENTIAL.
 
        DATA DIVISION.
